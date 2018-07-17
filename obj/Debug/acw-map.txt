@@ -1,0 +1,12 @@
+PokeBattle.FightActivity, PokeBattle;md55503c6dd11ce4032c17fcb1438663e14.FightActivity
+PokeBattle.FightActivity, PokeBattle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55503c6dd11ce4032c17fcb1438663e14.FightActivity
+PokeBattle.FightActivity;md55503c6dd11ce4032c17fcb1438663e14.FightActivity
+pokebattle.FightActivity;md55503c6dd11ce4032c17fcb1438663e14.FightActivity
+PokeBattle.MainActivity, PokeBattle;md55503c6dd11ce4032c17fcb1438663e14.MainActivity
+PokeBattle.MainActivity, PokeBattle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55503c6dd11ce4032c17fcb1438663e14.MainActivity
+PokeBattle.MainActivity;md55503c6dd11ce4032c17fcb1438663e14.MainActivity
+pokebattle.MainActivity;md55503c6dd11ce4032c17fcb1438663e14.MainActivity
+PokeBattle.MainScreen, PokeBattle;md55503c6dd11ce4032c17fcb1438663e14.MainScreen
+PokeBattle.MainScreen, PokeBattle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55503c6dd11ce4032c17fcb1438663e14.MainScreen
+PokeBattle.MainScreen;md55503c6dd11ce4032c17fcb1438663e14.MainScreen
+pokebattle.MainScreen;md55503c6dd11ce4032c17fcb1438663e14.MainScreen

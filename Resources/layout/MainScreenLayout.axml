@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/linearLayout1">
+        <Button
+            android:id="@+id/moneyButton"
+            android:layout_width="170dp"
+            android:layout_height="match_parent"
+            android:text="Button"
+            android:enabled="false" />
+        <Button
+            android:text="Score: "
+            android:id="@+id/pokedexButton"
+            android:layout_width="170dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="45dp"
+            android:enabled="false" />
+    </LinearLayout>
+    <TextView
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="74.0dp"
+        android:id="@+id/textBox" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="242.5dp"
+        android:id="@+id/imageView1" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/linearLayout2"
+        android:layout_marginTop="50dp">
+        <Button
+            android:text="Heal Pokemon"
+            android:layout_width="170dp"
+            android:layout_height="match_parent"
+            android:id="@+id/healButton" />
+        <Button
+            android:text="Fight"
+            android:layout_width="170dp"
+            android:layout_height="match_parent"
+            android:id="@+id/fightButton"
+            android:layout_marginLeft="45dp" />
+    </LinearLayout>
+</LinearLayout>

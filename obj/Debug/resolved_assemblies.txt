@@ -1,0 +1,9 @@
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\PokeBattle.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\System.Core.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\System.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Sherwin\Desktop\Visual C#\PokeBattle\PokeBattle\obj\Debug\assemblies\System.ServiceModel.Internals.dll
